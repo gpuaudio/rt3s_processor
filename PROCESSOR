@@ -1,0 +1,4 @@
+
+PROCESSOR_NAME="rt3s"
+PROCESSOR_IDENTIFIER="rt3s"
+PROCESSOR_DESCRIPTION="GPU real time sound source separation for GPU Audio"
