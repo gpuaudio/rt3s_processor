@@ -97,6 +97,6 @@ Packs the trained weights written by the python training script into a single bi
 #### rt3s_processor
 The processor source code.
 
-[1] https://www.l-acoustics.com/wp-content/uploads/2024/04/real_time_demixer_2024_04_19.pdf  
-[2] https://github.com/lucidrains/hs-tasnet  
+[1] https://www.l-acoustics.com/wp-content/uploads/2024/04/real_time_demixer_2024_04_19.pdf
+[2] https://gitlab.com/lucidrains/HS-TasNet
 [3] https://sigsep.github.io/datasets/musdb.html
